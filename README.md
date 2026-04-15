@@ -9,9 +9,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/surajkumar5050/surajkumar5050/main/assets/candle.gif" height="32"/>
   &nbsp;&nbsp;&nbsp;
-  <b>Experienced Android Developer</b>
+  <b>AI Engineer</b>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/surajkumar5050/surajkumar5050/main/assets/fox.gif" height="32"/>
+  <img src="https://raw.githubusercontent.com/surajkumar5050/surajkumar5050/main/assets/candle.gif" height="32"/>
 </p>
 
 
